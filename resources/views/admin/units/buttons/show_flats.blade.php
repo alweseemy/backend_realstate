@@ -1,0 +1,1 @@
+<a href="{{url('admin/units/'.$id.'/flats')}}" class="btn purple">{{trans('orbscope.apartments')}}</a>

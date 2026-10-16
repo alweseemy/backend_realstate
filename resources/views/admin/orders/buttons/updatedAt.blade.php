@@ -1,0 +1,1 @@
+{{Carbon\Carbon::parse($updated_at)->format('Y-m-d')}}

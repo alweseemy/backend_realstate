@@ -1,0 +1,1 @@
+<a href="{{ url(AdminPath().'/orders/'.$id.'/edit')}}" class="btn btn-warning">{{trans('orbscope.edit')}}</a>

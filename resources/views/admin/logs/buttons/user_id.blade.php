@@ -1,0 +1,1 @@
+{{@App\Models\User::find($user_id)->name}}

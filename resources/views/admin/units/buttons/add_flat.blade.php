@@ -1,0 +1,1 @@
+<a href="{{url('admin/units/'.$id.'/add_flat')}}" class="btn btn-default"> <i class="fa fa-plus"></i> {{trans('orbscope.add')}} </a>
